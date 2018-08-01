@@ -1,1 +1,2 @@
-# node-demo
+# 启动
+node server.js
